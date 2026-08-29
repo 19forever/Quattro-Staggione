@@ -1,0 +1,6 @@
+{
+  "name": "Čtyři roční období",
+  "description": "Hravá a interaktivní webová aplikace, která provede děti čtyřmi ročními obdobími v České republice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
